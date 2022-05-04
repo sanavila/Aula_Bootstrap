@@ -1,0 +1,27 @@
+.navbar {
+    background-color:  rgb(82, 84, 179);
+}
+.quem-somos {
+    background-color: #ccc;
+}
+#logo {
+    width: 180px;
+    height: 50px;
+}
+.rounded-circle {
+    width: 400px;
+    height: 400px;
+}
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.parceiros {
+    background-color: rgb(82, 84, 179);
+}
+.bg-footer {
+    background-color: black;
+}
+#footer-desc {
+    color: aliceblue;
+}
